@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-escape": "ember-helper:open-other-file-in-same-folder"
+  }
+}

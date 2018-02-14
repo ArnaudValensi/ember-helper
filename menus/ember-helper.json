@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open next file in folder",
+        "command": "ember-helper:open-other-file-in-same-folder"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ember-helper",
+          "submenu": [
+            {
+              "label": "Open other file in same folder",
+              "command": "ember-helper:open-other-file-in-same-folder"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
